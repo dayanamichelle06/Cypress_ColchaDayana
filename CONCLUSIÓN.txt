@@ -1,0 +1,6 @@
+Conclusión
+En resumen, la automatización de pruebas con Cypress puede mejorar significativamente la calidad del software, aumentar la eficiencia del ciclo de desarrollo y proporcionar herramientas avanzadas para la depuración y mantenimiento.
+Se concluye, que la página del ejercicio posee intermitencias. Lo cual no permite que se ejecute el proceso con normalidad. Y esto interrumpe el flujo de procesamiento de la prueba automatizada. Cuando la página responde con normalidad, los scripts se ejecutan sin errores y de manera eficaz.
+Los objetos pudieron ser identificados sin ningún inconveniente al momento de la generación de los scripts para automatizar las páginas propuestas.
+Recomendación
+Antes de la realizar las pruebas automatizadas en CYPRESS, revisar que todas las instalaciones estén correctas. Para evitar fallos posteriores o fallos en la ejecución. 
